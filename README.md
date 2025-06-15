@@ -3,3 +3,4 @@
 - Quotes
 - AGI
 - Physics
+- AGI and Conciousness
